@@ -1,0 +1,25 @@
+{
+  "name": "coding-interview-data-structures-algorithms",
+  "version": "1.0.0",
+  "description": "This include introduction of Data-Structure &amp; Algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek-baliyan-works/Coding-Interview-Data-Structures-Algorithms.git"
+  },
+  "author": "Abhishek Baliyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek-baliyan-works/Coding-Interview-Data-Structures-Algorithms/issues"
+  },
+  "homepage": "https://github.com/Abhishek-baliyan-works/Coding-Interview-Data-Structures-Algorithms#readme",
+  "devDependencies": {
+    "prettier": "1.18.2",
+    "eslint": "^6.4.0",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-prettier": "^3.1.0"
+  }
+}
